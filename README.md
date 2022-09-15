@@ -11,8 +11,12 @@ In the project directory, you can run:
  - Login
  - List Users
  - Detail User
-
-
+ 
+## library / dependecy
+- axios for data fetching
+- react router for handle routing
+- sass for styling
+- react hot toast for alert
 ### `npm start`
 
 Runs the app in the development mode.\
