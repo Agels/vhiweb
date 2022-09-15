@@ -1,0 +1,10 @@
+.contain {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+    .notfound-title {
+        font-size: 36px;
+    }
+}
