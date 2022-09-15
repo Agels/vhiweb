@@ -18,13 +18,13 @@ In the project directory, you can run:
 - sass for styling
 - react hot toast for alert
 
-#download / clone
+# download / clone
 
 ```bash
   git clone https://github.com/Agels/vhiweb
 ```
 
-#install dependecy
+# install dependecy
 
 ```bash
   npm install
