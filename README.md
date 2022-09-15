@@ -8,9 +8,9 @@ In the project directory, you can run:
 
 ## Pages
 
- # Login
- # List Users
- # Detail User
+ - Login
+ - List Users
+ - Detail User
 
 
 ### `npm start`
